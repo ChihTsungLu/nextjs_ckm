@@ -19,13 +19,13 @@ const  ProfilePage = ({ user }: Props) => (
                 </div>
                 <div className='flex flex-col space-y-4'>
                     <p className="md:text-xl text-xl font-bold md:mt-10 mt-5 ">
-                        I'm an avid tech and startup enthusiast who finds joy in crafting code and bringing ideas to life through innovative products.
+                        {`I'm an avid tech and startup enthusiast who finds joy in crafting code and bringing ideas to life through innovative products.`}
                     </p>
                     <p>
                         My toolkit includes React, Tailwind, Next, and TypeScript, which I wield skillfully to establish a robust and sustainable codebase.
                     </p>
                     <p>
-                        Currently, I'm engrossed in the creation of a dynamic website that serves as a repository for a diverse spectrum of technological knowledge. 
+                        {`Currently, I'm engrossed in the creation of a dynamic website that serves as a repository for a diverse spectrum of technological knowledge.`} 
                     </p>
 
                 </div>
